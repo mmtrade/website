@@ -4,7 +4,7 @@ import Intro from './Intro';
 
 describe('Intro', () => {
   const props = {
-    hero: {
+    intro: {
       title: 'test',
       subtitle: 'test',
       background: 'test'

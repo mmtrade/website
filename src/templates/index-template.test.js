@@ -8,7 +8,12 @@ describe('IndexTemplate', () => {
       site: {
         siteMetadata: {
           title: 'test',
-          subtitle: 'test'
+          subtitle: 'test',
+          intro: {
+            title: 'test',
+            subtitle: 'test',
+            background: 'test'
+          }
         }
       }
     }

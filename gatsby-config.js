@@ -68,8 +68,9 @@ module.exports = {
         background_color: '#FFF',
         theme_color: '#49FF9F',
         display: 'standalone',
-        icon: 'static/logo.png'
-      },
+        icon: 'static/logo.png',
+        include_favicon: false
+      }
     }
   ]
 };

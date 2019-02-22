@@ -7,6 +7,8 @@ const Layout = ({ children, title, description }) => (
     <Helmet>
       <title>{title}</title>
       <meta name="description" content={description} />
+      <link rel="shortcut icon" href="/favicon.ico" />
+      <link rel="apple-touch-icon" sizes="16x16" href="/favicon.ico" />
     </Helmet>
     {children}
   </div>

@@ -3,14 +3,22 @@
 </h1>
 
 <h4 align="center">
-  This repository contains the source code and content for the MMTrade public website.
+  This repository contains the source code and content for the MMTrade public website. </br>
+  It follows the <a href="https://jamstack.org">JAMstack architecture</a> by using Git as a single source of truth.
 </h4>
 
 <p align="center">
     <a target="_blank" href="https://circleci.com/gh/mmtrade/website"><img src="https://circleci.com/gh/mmtrade/website.svg?style=svg"></a> <a target="_blank" href="https://codecov.io/gh/mmtrade/website"><img src="https://codecov.io/gh/mmtrade/website/branch/master/graph/badge.svg"></a> <a target="_blank" href="https://www.codacy.com/app/mmtrade/website?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mmtrade/website&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/f7e27bb3a28a46a6b13453a02801c5c9"></a> <a target="_blank" href="https://codeclimate.com/github/mmtrade/website"><img src="https://img.shields.io/codeclimate/maintainability/mmtrade/website.svg"></a> <a href="https://app.fossa.io/projects/git%2Bgithub.com%2Fmmtrade%2Fwebsite?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmmtrade%2Fwebsite.svg?type=shield"/></a>
 </p>
 
-It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth.
+## Table of contents
+
++ [Quick Start](http://github.com/mmtrade/website#quick-start)
+    + [Create a Gatsby site](http://github.com/mmtrade/website#create-a-gatsby-site)
+    + [Start developing](http://github.com/mmtrade/website#start-developing)
+    + [Access Locally](http://github.com/mmtrade/website#access-locally)
++ [Directory Structure](http://github.com/mmtrade/website#directory-structure)
++ [Prerequisites](http://github.com/mmtrade/website#prerequisites)
 
 ## Quick Start
 

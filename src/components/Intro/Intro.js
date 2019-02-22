@@ -1,5 +1,4 @@
 import React from 'react';
-import { withPrefix } from 'gatsby';
 import styles from './Intro.module.scss';
 
 const Intro = ({ intro }) => (

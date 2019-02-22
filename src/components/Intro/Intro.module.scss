@@ -1,0 +1,68 @@
+@import '../../assets/scss/variables';
+@import '../../assets/scss/mixins';
+
+.intro {
+  height: 100vh;
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  background: url("/map.png") $color-base no-repeat center center;
+  
+  &__inner {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__flex {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+
+    &-child {
+      lost-column: 6/12 flex;
+
+      &--with-left-offset {
+        padding-left: 3.5rem;
+      }
+
+    }
+
+  }
+
+  &__title {
+    text-align: center;
+    color: $color-white;
+    margin-top: 0px;
+    margin-bottom: 60px;
+    font-size: 48px;
+    line-height: 1.45;
+    font-weight: bold;
+    font-family: $typographic-font-family;
+  }
+
+  &__subtitle {
+    text-align: center;
+    color: $color-white;
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 24px;
+    line-height: 1.65;
+    font-weight: 300;
+    max-width: 600px;
+    font-family: $typographic-font-family;
+  }
+
+  &__logo {
+    text-align: center;
+    margin: 0 auto;
+
+    &-svg {
+      path {
+        fill: $color-primary;
+      }
+
+    }
+
+  }
+
+}

@@ -10,7 +10,7 @@
   
   &__inner {
     margin: 0;
-    padding: 0;
+    padding: 0 60px;
   }
 
   &__flex {
@@ -45,7 +45,7 @@
     color: $color-white;
     max-width: 600px;
     margin: 0 auto;
-    font-size: 24px;
+    font-size: 18px;
     line-height: 1.65;
     font-weight: 300;
     font-family: $typographic-font-family;
@@ -60,6 +60,27 @@
         fill: $color-primary;
       }
 
+    }
+
+  }
+
+}
+
+
+@include breakpoint-sm {
+  .intro {
+    &__subtitle {
+      font-size: 20px;
+    }
+
+  }
+
+}
+
+@include breakpoint-md {
+  .intro {
+    &__subtitle {
+      font-size: 24px; 
     }
 
   }

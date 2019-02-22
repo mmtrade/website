@@ -68,24 +68,14 @@ The following is a high level overview of relevant files and folders.
     ├── pages
 └── src
     ├── assets
-    │   └── img
     │   └── scss
     │       ├── base
     │       └── mixins
     ├── components
-    │   ├── About
-    │   ├── Carousel
-    │   ├── Community
-    │   ├── Footer
-    │   ├── Header
-    │   │   └── Navbar
-    │   ├── Hero
+    │   ├── Intro
     │   ├── Icon
     │   ├── Layout
-    │   ├── Resources
-    │   ├── Roadmap
-    │   ├── Summary
-    │   └── Team
+    │   ├── Page
     ├── constants
     ├── templates
     └── utils

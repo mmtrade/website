@@ -1,4 +1,5 @@
 import React from 'react';
+import Contacts from './Contacts';
 import styles from './Intro.module.scss';
 
 const Intro = ({ intro }) => (
@@ -17,6 +18,7 @@ const Intro = ({ intro }) => (
       </div>
       <h1 className={styles['intro__title']}>{intro.title}</h1>
       <p className={styles['intro__subtitle']}>{intro.subtitle}</p>
+      <div className={styles['intro__contacts']}><Contacts contacts={intro.contacts}/></div>
     </div>
   </div>
 );

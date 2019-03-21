@@ -7,7 +7,12 @@ describe('Intro', () => {
     intro: {
       title: 'test',
       subtitle: 'test',
-      background: 'test'
+      background: 'test',
+      contacts: {
+        discord: '#',
+        gmail: '#',
+        github: '#'
+      }
     }
   };
 

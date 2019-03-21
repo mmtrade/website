@@ -7,6 +7,11 @@ module.exports = {
   intro: {
     title: 'MMTrade',
     subtitle: 'The next generation research-platform for cryptocurrency market state visualization in real-time.',
-    background: '/map.png'
+    background: '/map.png',
+    contacts: {
+      discord: 'https://discord.gg/VMDMZwr',
+      github: 'mmtrade',
+      gmail: 'mmtradefoundation@gmail.com'
+    }
   },
 };

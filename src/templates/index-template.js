@@ -27,6 +27,11 @@ export const query = graphql`
           title
           subtitle
           background
+          contacts {
+            github,
+            gmail,
+            discord
+          }
         }
       }
     }

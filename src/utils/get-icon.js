@@ -10,6 +10,12 @@ const getIcon = (name) => {
     case 'github':
       icon = ICONS.GITHUB;
       break;
+    case 'discord':
+      icon = ICONS.DISCORD;
+      break;
+    case 'gmail':
+      icon = ICONS.GMAIL;
+      break;
     case 'vkontakte':
       icon = ICONS.VKONTAKTE;
       break;

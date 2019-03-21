@@ -18,6 +18,7 @@
     },
     "rules": {
       "comma-dangle": 0,
+      "no-unused-expressions": 0,
       "import/prefer-default-export": 0,
       "import/imports-first": 0,
       "global-require": 0,

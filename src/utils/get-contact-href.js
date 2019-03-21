@@ -5,8 +5,8 @@ const getContactHref = (name, contact) => {
     case 'github':
       href = `https://github.com/${contact}`;
       break;
-    case 'telegram':
-      href = `telegram:${contact}`;
+    case 'discord':
+      href = contact;
       break;
     case 'gmail':
       href = `mailto:${contact}`;

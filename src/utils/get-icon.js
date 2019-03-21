@@ -13,9 +13,6 @@ const getIcon = (name) => {
     case 'gmail':
       icon = ICONS.GMAIL;
       break;
-    case 'telegram':
-      icon = ICONS.TELEGRAM;
-      break;
     default:
       icon = {};
       break;

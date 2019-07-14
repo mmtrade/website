@@ -88,6 +88,6 @@
     "lost": "8.3.1",
     "postcss-pxtorem": "4.0.1",
     "autoprefixer": "9.6.1",
-    "browserslist": "4.6.4"
+    "browserslist": "4.6.6"
   }
 }

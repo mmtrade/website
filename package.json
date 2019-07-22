@@ -82,7 +82,7 @@
     "eslint-plugin-import": "2.18.0",
     "eslint-plugin-jest": "22.13.0",
     "eslint-plugin-react": "7.14.2",
-    "eslint-watch": "5.1.2",
+    "eslint-watch": "6.0.0",
     "babel-eslint": "10.0.2",
     "gh-pages": "2.0.1",
     "lost": "8.3.1",

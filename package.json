@@ -84,7 +84,7 @@
     "eslint-plugin-react": "7.14.3",
     "eslint-watch": "6.0.0",
     "babel-eslint": "10.0.2",
-    "gh-pages": "2.0.1",
+    "gh-pages": "2.2.0",
     "lost": "8.3.1",
     "postcss-pxtorem": "4.0.1",
     "autoprefixer": "9.6.1",

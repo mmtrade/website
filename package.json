@@ -71,7 +71,7 @@
     "react-test-renderer": "16.8.6",
     "jest": "23.6.0",
     "jest-cli": "23.6.0",
-    "rimraf": "2.6.3",
+    "rimraf": "3.0.2",
     "concurrently": "4.1.1",
     "stylelint": "10.1.0",
     "stylelint-scss": "3.9.2",

@@ -51,7 +51,7 @@
     "invariant": "^2.2.4",
     "lodash": "^4.17.11",
     "moment": "^2.23.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "normalize-scss": "^7.0.1",
     "prismjs": "^1.15.0",
     "react": "^16.8.1",
